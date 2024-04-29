@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4/tSxo1f1I5ijXeud0vLHmfHy0FwgVnrndsXo/ZxNon6UOljzFiCZk5nDsLcmNFkHnxXbTJz6Z7y3Lu1Vfsu9w==",
+  "dgSpecHash": "g/rDNaTvUpJTfSodeyxRldDIV10jFIUXhrNuJD6e6w8JafIuZFG/A9zQfPRauD7ub/zD2cJlQelJJZ8FSw0BFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

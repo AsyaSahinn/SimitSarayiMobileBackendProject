@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tVobzZ+0gAw1UbuQqQTYtudfAsxbqPl/cdqcxT3fsP5pYeIJ1f6p//KdTqxd4TdFLfkskb66b39AEJ3SelVhDQ==",
+  "dgSpecHash": "WVF7y07LSgN00g0CsO08Sinwm24FRAt21jaOSvmE0PfubazqvCFy0In1L+mpnq1bFydVaylQKI7HpCVRb7UbkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.4\\microsoft.jsinterop.webassembly.8.0.4.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.0\\microsoft.net.sdk.webassembly.pack.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",

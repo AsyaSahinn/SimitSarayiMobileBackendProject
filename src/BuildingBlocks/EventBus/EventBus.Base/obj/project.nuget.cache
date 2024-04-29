@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4YEvhBp9RZrK80HysMFa6Rm3UvCmVpL9sogkn3dDAxmmQVUhI6aSacqPyJYVWCXK+bBNB5KUxU+x9N/g4EKhuA==",
+  "dgSpecHash": "qgKU2AuMJX3NWl6O8eitB3YTrp0BUpx0cSdc/wXBImBGkoq0bn2qNrwjtYX4Vs4jV2cZk0BQg3FQ4GjP3jmGDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

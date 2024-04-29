@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VD84yzzhXWR2y19DkPmvXqa8wnIvfkNrsoRPFUQ5AMt2WOu3LKPAVyG+uYa5g848ASErrc4h9vpa1a3uxFTvBQ==",
+  "dgSpecHash": "oNQRDpjlee8QPgX3aH9hGGy4zD45JGsYm5jL6n973GxkWcFUopOZbHE6bt1MldVaONIiCB7BDJhSgvN9RUdDDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
