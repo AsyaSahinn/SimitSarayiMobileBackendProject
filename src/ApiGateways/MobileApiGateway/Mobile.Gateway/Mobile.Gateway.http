@@ -1,0 +1,6 @@
+@Mobile.Gateway_HostAddress = http://localhost:5223
+
+GET {{Mobile.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

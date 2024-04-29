@@ -1,0 +1,11 @@
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.deps.json
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.dll
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Factory.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.dll
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\refint\EventBus.Factory.dll
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\ref\EventBus.Factory.dll
