@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {}
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "projectName": "EventBus.AzureServiceBus",
-        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
+        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

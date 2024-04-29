@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEgfJHpPofIOB5HZyfBf75pK2rqB4A+YV4KdxTxJlsoYz+M1M3v3rR6IvYNmF2fqQybtdQiEvU9TS30dycZLlg==",
+  "dgSpecHash": "tVobzZ+0gAw1UbuQqQTYtudfAsxbqPl/cdqcxT3fsP5pYeIJ1f6p//KdTqxd4TdFLfkskb66b39AEJ3SelVhDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+      "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
       "projectName": "EventBus.Factory",
-      "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+      "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
       "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
+      "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

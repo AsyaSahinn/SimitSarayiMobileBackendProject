@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "guaDiSdgQsGJ3ADmRba1idbr0c/2pfjjrpVaLkLXSyFnpCCgSsQBPx59mjaG02Cnpl/bGPuEBFp9hAyhDl606A==",
+  "dgSpecHash": "soJjPEq3WhtPoYC02DsmWMsi6RqfADvzkenwKeC1r3mAB1Bnp/axFN1HPCSyOMQ1YO+qP9ogM4flC1xskNRYMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

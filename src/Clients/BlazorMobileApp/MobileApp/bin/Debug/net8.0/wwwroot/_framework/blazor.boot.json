@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MobileApp",
   "resources": {
-    "hash": "sha256-kml+M8UP5YV88tb3RR0CiKD//j+2RtFc7B2oFF4n8gg=",
+    "hash": "sha256-UW4vmgznS57v/6rJz+JwRiFTm8aHqmAUPo2zogdkbM8=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.8tgnawy8pv.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "MobileApp.wasm": "sha256-oXv51Du5Aikn7tGoBOFB6Jlv2pwhlhxP8jprUzC84RM="
+      "MobileApp.wasm": "sha256-vK9/JwiMalk22/YjG1BZhDNNqZpjtX1P4WOAXnQNTRc="
     },
     "pdb": {
-      "MobileApp.pdb": "sha256-0VzsA9XVhCEGIcGl7snSAy2J8BiilC+shDw4dTFnP/A="
+      "MobileApp.pdb": "sha256-GQukEUKZkvB9hRgHAwt3xbv848L/QgcQm7S66+JxEMI="
     }
   },
   "cacheBootResources": true,

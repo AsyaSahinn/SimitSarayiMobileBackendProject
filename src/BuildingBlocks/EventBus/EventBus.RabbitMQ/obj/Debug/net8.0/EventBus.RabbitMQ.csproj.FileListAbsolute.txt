@@ -9,3 +9,15 @@ C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlo
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\refint\EventBus.RabbitMQ.dll
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\ref\EventBus.RabbitMQ.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.deps.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.sourcelink.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\refint\EventBus.RabbitMQ.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\ref\EventBus.RabbitMQ.dll

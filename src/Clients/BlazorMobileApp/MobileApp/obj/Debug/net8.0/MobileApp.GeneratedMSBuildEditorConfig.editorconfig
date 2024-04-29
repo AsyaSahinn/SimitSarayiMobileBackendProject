@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = MobileApp
 build_property.RootNamespace = MobileApp
-build_property.ProjectDir = C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\Clients\BlazorMobileApp\MobileApp\
+build_property.ProjectDir = C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\Clients\BlazorMobileApp\MobileApp
+build_property.MSBuildProjectDirectory = C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/App.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Counter.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Home.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Weather.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/_Imports.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/Layout/MainLayout.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xbstetapv5
 
-[C:/Users/Bulutera03/source/repos/SimitSarayıMobileAppApiProject/src/Clients/BlazorMobileApp/MobileApp/Layout/NavMenu.razor]
+[C:/Users/Bulutera03/source/repos/SimitSarayiMobileBackendProject/src/Clients/BlazorMobileApp/MobileApp/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4d67jjlok2

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbOfvO/LWujO5AhK0dY2FOaIZcUyhwerxAeQRHmnTlecE7PMXkk9pLNVX9TuEQwRHSSg6/pJnG55DnsJjKLYqg==",
+  "dgSpecHash": "4/tSxo1f1I5ijXeud0vLHmfHy0FwgVnrndsXo/ZxNon6UOljzFiCZk5nDsLcmNFkHnxXbTJz6Z7y3Lu1Vfsu9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

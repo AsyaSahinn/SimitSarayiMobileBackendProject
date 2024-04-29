@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj": {}
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj": {
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
         "projectName": "Mobile.Gateway",
-        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
+        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
         "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\obj\\",
+        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

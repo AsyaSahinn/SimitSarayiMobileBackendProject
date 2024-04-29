@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\CatologService.Api\\CatologService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\CatologService.Api\\CatologService.Api.csproj",
       "projectName": "CatologService.Api",
-      "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\CatologService.Api\\CatologService.Api.csproj",
+      "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\CatologService.Api\\CatologService.Api.csproj",
       "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\CatologService.Api\\obj\\",
+      "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\CatologService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

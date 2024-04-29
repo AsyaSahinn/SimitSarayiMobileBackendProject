@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mJLA/BpsR1hIZN0WSCCLsaZfICYU9qsljMXdgb2hl3w=",
+  "Source": "CatologService.Api",
+  "BasePath": "_content/CatologService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

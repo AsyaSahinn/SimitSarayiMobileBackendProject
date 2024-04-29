@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj": {}
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj": {
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
+        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
         "projectName": "MobileApp",
-        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
+        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\MobileApp.csproj",
         "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\obj\\",
+        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Clients\\BlazorMobileApp\\MobileApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

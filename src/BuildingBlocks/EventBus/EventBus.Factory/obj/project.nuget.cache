@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0AY+GWCvyg0gZ1AJbr/KmNQdAIcy+dy8MdAgWUg2HVCg8+0J+meeXbTLCDtx35TjtcP50GXAGMLs/UFcWlxQWQ==",
+  "dgSpecHash": "B/0ZV75Fc8bSJp8HVJMrSvApe0ALQ3q8imC1bozMv8k5jpbGxj8nqFVQCqiN6dbmEwZaEc3KDoytOLKh5Ysdxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

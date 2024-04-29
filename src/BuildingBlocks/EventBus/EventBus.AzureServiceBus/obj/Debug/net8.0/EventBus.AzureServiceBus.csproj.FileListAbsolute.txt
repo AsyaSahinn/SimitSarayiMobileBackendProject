@@ -9,3 +9,15 @@ C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlo
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\refint\EventBus.AzureServiceBus.dll
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayıMobileAppApiProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\ref\EventBus.AzureServiceBus.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.deps.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.sourcelink.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\refint\EventBus.AzureServiceBus.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net8.0\ref\EventBus.AzureServiceBus.dll

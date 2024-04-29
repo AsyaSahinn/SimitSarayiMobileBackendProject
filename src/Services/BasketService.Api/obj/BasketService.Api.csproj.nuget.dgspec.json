@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj": {}
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj": {
+    "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
         "projectName": "BasketService.Api",
-        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
+        "projectPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\BasketService.Api.csproj",
         "packagesPath": "C:\\Users\\Bulutera03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\Services\\BasketService.Api\\obj\\",
+        "outputPath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\Services\\BasketService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bulutera03\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p50uM2vhmD1FT76IJQ0Q26vjj+Z9XuOo0zA9CvxaCOAx04AMHCaOkIFUx5QZg/T+gexGoiZs0CJXXFDUVDYNDw==",
+  "dgSpecHash": "judxQD1XcOOS03v0UWzrhQ3jk1L82cxSAmGsoN1EqY2LR4MPZjL6aAdDKV1CdsOXTqRfH8GTtbs5CDgyd/eNiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\ApiGateways\\MobileApiGateway\\Mobile.Gateway\\Mobile.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

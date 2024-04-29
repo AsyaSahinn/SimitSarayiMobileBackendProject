@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wlFWvp4wxoLgzkbUkZ7/de4yQ8hxmDuoWwiphoIt2ce708jjFPLjQ3ZTOMv5Cg63vWckXZPh0yi1qkyvA5Zuqg==",
+  "dgSpecHash": "jVbOVaF0X3buQTElPOPRY142WfZePF40E37SCkIBYOg6FgyQxeyV3bCkdG/3qfooC2Xs5oQ8zAUT7+zUwQcfrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayıMobileAppApiProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
