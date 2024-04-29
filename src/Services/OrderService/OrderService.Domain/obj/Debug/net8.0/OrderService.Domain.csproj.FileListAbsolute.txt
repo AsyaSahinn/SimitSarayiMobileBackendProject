@@ -1,0 +1,12 @@
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.sourcelink.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll

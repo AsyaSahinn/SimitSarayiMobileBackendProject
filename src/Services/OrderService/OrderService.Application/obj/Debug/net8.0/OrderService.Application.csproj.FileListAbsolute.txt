@@ -1,0 +1,12 @@
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.deps.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.sourcelink.json
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\refint\OrderService.Application.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Application\obj\Debug\net8.0\ref\OrderService.Application.dll
