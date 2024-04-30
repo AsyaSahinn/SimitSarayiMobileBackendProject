@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qgKU2AuMJX3NWl6O8eitB3YTrp0BUpx0cSdc/wXBImBGkoq0bn2qNrwjtYX4Vs4jV2cZk0BQg3FQ4GjP3jmGDg==",
+  "dgSpecHash": "1HkQtctEDym4noQ0ueBmwkoNjd4Is9uB10lvdVOZVUJ4+Hl5uKZ0TaFHukFBgsOYtwEbbsdRDgGHY/jC0/ONBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
