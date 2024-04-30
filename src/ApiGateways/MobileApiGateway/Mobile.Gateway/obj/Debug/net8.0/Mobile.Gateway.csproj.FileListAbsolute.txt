@@ -63,3 +63,4 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\ApiGateways
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\ApiGateways\MobileApiGateway\Mobile.Gateway\obj\Debug\net8.0\Mobile.Gateway.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\ApiGateways\MobileApiGateway\Mobile.Gateway\obj\Debug\net8.0\Mobile.Gateway.genruntimeconfig.cache
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\ApiGateways\MobileApiGateway\Mobile.Gateway\obj\Debug\net8.0\ref\Mobile.Gateway.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\ApiGateways\MobileApiGateway\Mobile.Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll

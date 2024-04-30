@@ -2061,3 +2061,8 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\Bla
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\obj\Debug\net8.0\refint\MobileApp.dll
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\obj\Debug\net8.0\MobileApp.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\obj\Debug\net8.0\ref\MobileApp.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm.gz
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\obj\Debug\net8.0\webcil\Newtonsoft.Json.wasm
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Clients\BlazorMobileApp\MobileApp\obj\Debug\net8.0\compressed\69b8c89ivp.gz

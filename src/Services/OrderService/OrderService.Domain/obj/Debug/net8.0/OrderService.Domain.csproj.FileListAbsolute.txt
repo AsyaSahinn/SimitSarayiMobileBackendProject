@@ -10,3 +10,4 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\Or
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.AssemblyReference.cache

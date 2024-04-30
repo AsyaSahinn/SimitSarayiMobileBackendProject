@@ -21,3 +21,4 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlo
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\refint\EventBus.Factory.dll
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\ref\EventBus.Factory.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.AssemblyReference.cache

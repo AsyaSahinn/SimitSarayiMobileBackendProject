@@ -31,3 +31,4 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\Ca
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\CatologService.Api\obj\Debug\net8.0\CatologService.Api.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\CatologService.Api\obj\Debug\net8.0\CatologService.Api.genruntimeconfig.cache
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\CatologService.Api\obj\Debug\net8.0\ref\CatologService.Api.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\CatologService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll

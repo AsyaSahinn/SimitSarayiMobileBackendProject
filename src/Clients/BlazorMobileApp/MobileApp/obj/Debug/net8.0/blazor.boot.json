@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MobileApp",
   "resources": {
-    "hash": "sha256-QeJej/Sv14a6wC29EXWKS2/F/5hAb3j3byZrQo2sqAw=",
+    "hash": "sha256-gGegJYd5HkwtvkzZoKeNtAr/pJ4o15ZWg29y3f6kpXc=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.8tgnawy8pv.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -39,6 +39,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-pVrYOTfjb2ITls3LKIByW1t8jwOAWFhmkIVDewtJ1GE=",
       "Microsoft.JSInterop.wasm": "sha256-GsAOzdCVCC+n7tPF4K83ctQiqj1M850bsiJ5oPCpOiE=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-k1ycznAW3kfyxO+I3lroU5VWTHPfMEmvwPqq6dnWPtk=",
+      "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "System.IO.Pipelines.wasm": "sha256-JqVBy6SV+3qk+IK3VJiyIDt9CsVk6b1/ytTXmrI4mTM=",
       "Microsoft.CSharp.wasm": "sha256-ZpkICZtm/DHNuGrRDRfVyuTokNnwnPl7dxJGrPk6z5g=",
       "Microsoft.VisualBasic.Core.wasm": "sha256-coGIpdzImgRuQzGOx9iJkE/euOSMnY1mLy59OHmdq7k=",
@@ -208,10 +209,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "MobileApp.wasm": "sha256-g0LPe5bOc9hvx4ErmhB5e07MDdaD6usX7LeDzgt/OJ0="
+      "MobileApp.wasm": "sha256-pKHuYMrZy0zkCFda6MR1a2n4JYek5+6A/ta5caoYvFM="
     },
     "pdb": {
-      "MobileApp.pdb": "sha256-o6G9+zO91OukA5EikNbkK0nGIPN1fqC5noP+wYuEG2s="
+      "MobileApp.pdb": "sha256-F7Q+la7ZicuZvs2yU6UT8ZHfazCb5AVvQ6qrfH7pkhw="
     }
   },
   "cacheBootResources": true,

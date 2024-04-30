@@ -13,3 +13,6 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\No
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CopyComplete

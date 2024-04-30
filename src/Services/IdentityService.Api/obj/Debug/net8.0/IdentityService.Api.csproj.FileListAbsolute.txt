@@ -31,3 +31,4 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\Id
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\IdentityService.Api\obj\Debug\net8.0\IdentityService.Api.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\IdentityService.Api\obj\Debug\net8.0\IdentityService.Api.genruntimeconfig.cache
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\IdentityService.Api\obj\Debug\net8.0\ref\IdentityService.Api.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\Services\IdentityService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
