@@ -22,3 +22,6 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlo
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\ref\EventBus.RabbitMQ.dll
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.Base.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net8.0\EventBus.Base.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net8.0\EventBus.RabbitMQ.csproj.CopyComplete

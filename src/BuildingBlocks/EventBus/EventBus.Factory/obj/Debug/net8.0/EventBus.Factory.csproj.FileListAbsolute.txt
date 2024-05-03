@@ -22,3 +22,10 @@ C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlo
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.pdb
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\ref\EventBus.Factory.dll
 C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.AssemblyReference.cache
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.AzureServiceBus.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Base.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.RabbitMQ.dll
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.AzureServiceBus.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.Base.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net8.0\EventBus.RabbitMQ.pdb
+C:\Users\Bulutera03\source\repos\SimitSarayiMobileBackendProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net8.0\EventBus.Factory.csproj.CopyComplete

@@ -1,10 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "Z2y7QhAhPQSOU+r6wCNQA55KwrptDi+jvJ+W535co6kKiNi5uLJ2FfV6eBwUjRdab1OhHkLqaH3TjUtQKKQDcA==",
+  "dgSpecHash": "5U9nwHnB63I9elueS3bkRX9+8O6PfGXYoGDM03QRJwp4SMuhLV9uNTB6bFoxCugB3hhzZGos1WoNFBsMSvEFLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bulutera03\\source\\repos\\SimitSarayiMobileBackendProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bulutera03\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

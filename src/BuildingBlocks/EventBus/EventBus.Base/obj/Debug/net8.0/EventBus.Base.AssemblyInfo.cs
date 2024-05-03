@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventBus.Base")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5beaff6ded16cbc416f3c71a9a47064c7f117e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed039d66078aa168093b742fba61affb9a3597a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventBus.Base")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventBus.Base")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
