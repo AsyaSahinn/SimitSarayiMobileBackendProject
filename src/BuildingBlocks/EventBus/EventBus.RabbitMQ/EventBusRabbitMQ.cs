@@ -21,24 +21,48 @@ namespace EventBus.RabbitMQ
         private readonly IModel _consumerChannel;
         public EventBusRabbitMQ(EventBusConfig config, IServiceProvider serviceProvider) : base(config, serviceProvider)
         {
-            if (config.Connection != null)
+            if (EventBusConfig.Connection != null)
             {
-                var connJson = JsonConvert.SerializeObject(EventBusConfig, new JsonSerializerSettings()
+                if (EventBusConfig.Connection is ConnectionFactory)
+                    _connectionFactory = EventBusConfig.Connection as ConnectionFactory;
+                else
                 {
-                    //self referencing loop detected for property 
-                    ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+                    var connJson = JsonConvert.SerializeObject(EventBusConfig.Connection, new JsonSerializerSettings()
+                    {
+                        // Self referencing loop detected for property 
+                        ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+                    });
 
-                });
-                _connectionFactory = JsonConvert.DeserializeObject<ConnectionFactory>(connJson);
+                    _connectionFactory = JsonConvert.DeserializeObject<ConnectionFactory>(connJson);
+                }
             }
             else
-            {
-                _connectionFactory = new ConnectionFactory();
-            }
+                _connectionFactory = new ConnectionFactory(); //Create with default values
+
             persistentConnection = new RabbitMQPersistentConnection(_connectionFactory, config.ConnectionRetryCount);
+
             _consumerChannel = CreateConsumerChannel();
 
             SubsManager.OnEventRemoved += SubsManager_OnEventRemoved;
+        }
+
+        private void SubsManager_OnEventRemoved(object sender, string eventName)
+        {
+            eventName = ProcessEventName(eventName);
+
+            if (!persistentConnection.IsConnection)
+            {
+                persistentConnection.TryConnect();
+            }
+
+            _consumerChannel.QueueUnbind(queue: eventName,
+                exchange: EventBusConfig.DefaultTopicName,
+                routingKey: eventName);
+
+            if (SubsManager.IsEmpty)
+            {
+                _consumerChannel.Close();
+            }
         }
 
 
@@ -113,6 +137,7 @@ namespace EventBus.RabbitMQ
             SubsManager.RemoveSubscription<T, TH>();
         }
 
+
         private IModel CreateConsumerChannel()
         {
             if (!persistentConnection.IsConnection)
@@ -158,23 +183,5 @@ namespace EventBus.RabbitMQ
             _consumerChannel.BasicAck(e.DeliveryTag, multiple: false);
         }
 
-        private void SubsManager_OnEventRemoved(object? sender, string eventName)
-        {
-            eventName = ProcessEventName(eventName);
-            if (!persistentConnection.IsConnection)
-            {
-                persistentConnection.TryConnect();
-            }
-
-            _consumerChannel.QueueBind( //queueler silinmez sadece unbind ile dinlemeyi bırakırız
-                queue: eventName,
-                exchange: EventBusConfig.DefaultTopicName,
-                routingKey: eventName
-                );
-            if (SubsManager.IsEmpty)
-            {
-                _consumerChannel.Close();
-            }
-        }
     }
 }
